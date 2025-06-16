@@ -1,6 +1,7 @@
 {
   "name": "ngx-mario",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "description": "An Angular library that recreates the classic Super Mario Bros (NES) experience",
   "peerDependencies": {
     "@angular/common": "^20.0.0",
     "@angular/core": "^20.0.0"
@@ -8,5 +9,15 @@
   "dependencies": {
     "tslib": "^2.3.0"
   },
-  "sideEffects": false
+  "sideEffects": false,
+  "author": "Andrea Russo",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dead96/ngx-mario.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Dead96/ngx-mario/issues"
+  },
+  "homepage": "https://github.com/Dead96/ngx-mario#readme",
+  "license": "MIT"
 }
