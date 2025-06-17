@@ -31,15 +31,13 @@ Add these lines to your `angular.json` file to include the necessary assets:
 
 ```json
 {
-  ...
-    "assets": [
-      {
-        "glob": "**/*",
-        "input": "./node_modules/ngx-mario/src/assets",
-        "output": "/assets/ngx-mario"
-      }
-    ],
-  ...
+  "assets": [
+    {
+      "glob": "**/*",
+      "input": "./node_modules/ngx-mario/src/assets",
+      "output": "/assets/ngx-mario"
+    }
+  ],
 }
 ```
 
