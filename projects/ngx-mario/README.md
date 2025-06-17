@@ -64,3 +64,7 @@ Note: The component is responsive and will adjust to the size of its container. 
 - Game over screen
 - Life system
 - Score system
+
+## 📜 Legal Notice
+
+This project is an unofficial fan-made work and is not affiliated with, endorsed, sponsored, or approved by Nintendo. All trademarks, service marks, product names, characters, images, music, and sound effects related to *Super Mario Bros.* are the property of their respective owners. *Super Mario Bros.*, Mario, and all associated assets are trademarks or registered trademarks of Nintendo Co., Ltd.
